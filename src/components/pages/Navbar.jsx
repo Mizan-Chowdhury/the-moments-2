@@ -1,12 +1,12 @@
 import { useContext } from "react";
-import {BiLogOut} from 'react-icons/bi'
+import { BiLogOut } from "react-icons/bi";
 import { Link, NavLink } from "react-router-dom";
 import { AuthContext } from "../routers/AuthProvider";
-import avater from '../../assets/avater.png'
+import avater from "../../assets/avater.png";
 import Swal from "sweetalert2";
 const Navbar = () => {
-  const { user , logout} = useContext(AuthContext);
-  console.log(user)
+  const { user, logout } = useContext(AuthContext);
+  console.log(user);
 
   const navList = (
     <>
@@ -61,7 +61,7 @@ const Navbar = () => {
             </label>
             <ul
               tabIndex={0}
-              className="dropdown-content w-60 mt-5 -ml-48 border text-white absolute rounded p-6 shadow bg-black bg-opacity-30"
+              className="dropdown-content w-60 mt-2 z-[2] -ml-48 border text-white rounded p-6 shadow bg-black bg-opacity-70"
             >
               <img
                 className="rounded-full w-16 h-16 mx-auto"
