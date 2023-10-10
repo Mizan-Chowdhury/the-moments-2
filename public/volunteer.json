@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "position": "Lead Wedding Photographer",
+    "image": "https://i.ibb.co/PZbBhXF/avatar-7.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Emily Jones",
+    "position": "Assistant Wedding Photographer",
+    "image": "https://i.ibb.co/sj6Wp4K/avatar-6.jpg"
+  },
+  {
+    "id": "3",
+    "name": " Alex Perez",
+    "position": "Second Shooter Wedding Photographer",
+    "image": "https://i.ibb.co/syWCNMn/avatar-5.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Michel Don",
+    "position": "Wedding Photography Editor",
+    "image": "https://i.ibb.co/qCRTWgV/avatar-8.jpg"
+  }
+]

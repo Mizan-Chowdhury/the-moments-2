@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/gS9sVSH/istockphoto-1213809785-612x612.jpg",
+    "title": "Bridal Shoot",
+    "description": "A bridal shoot is a session in which the photographer shoots pictures of the bride by herself in her wedding gown. For decades they were a regular part of the wedding photography process, but have become much less popular in recent years. However, that doesn't mean it's necessarily wrong to write it as one word—photoshoot. In fact, photoshoot has recently been gaining popularity, but it has a long way to go before it catches up with photo shoot.",
+    "price": 1500
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/bB2042x/istockphoto-1255725050-612x612.jpg",
+    "title": "Wedding Shoot",
+    "description": "Wedding photography is a specialty in photography that is primarily focused on the photography of events and activities relating to weddings.However, that doesn't mean it's necessarily wrong to write it as one word—photoshoot. In fact, photoshoot has recently been gaining popularity, but it has a long way to go before it catches up with photo shoot.",
+    "price": 2000
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/YBg0C7Y/istockphoto-1187074682-612x612.jpg",
+    "title": "Reception",
+    "description": "Want to master the dynamics of photographing wedding receptions? This blog is here to help. Learn how to ace wedding reception photography with these tips. However, that doesn't mean it's necessarily wrong to write it as one word—photoshoot. In fact, photoshoot has recently been gaining popularity, but it has a long way to go before it catches up with photo shoot.",
+    "price": 2500
+  },
+  {
+    "id": "4",
+    "image": "https://i.ibb.co/NFDtTKn/istockphoto-1190043570-612x612.jpg",
+    "title": "Couple Shoot",
+    "description": "A good knowledge of couple poses is essential for portrait photographers. We give you plenty of inspiration to capture the romance at your next photo shoot. However, that doesn't mean it's necessarily wrong to write it as one word—photoshoot. In fact, photoshoot has recently been gaining popularity, but it has a long way to go before it catches up with photo shoot.",
+    "price": 1000
+  },
+  {
+    "id": "5",
+    "image": "https://i.ibb.co/Vpdz5pC/istockphoto-683705432-612x612.jpg",
+    "title": "Akdh",
+    "description": "In Muslim wedding the 'Nikah/Akdh is the wedding ceremony & upholding Muslim rituals. We did attend an outdoor shoot for my newly married friend & his.However, that doesn't mean it's necessarily wrong to write it as one word—photoshoot. In fact, photoshoot has recently been gaining popularity, but it has a long way to go before it catches up with photo shoot.",
+    "price": 3000
+  },
+  {
+    "id": "6",
+    "image": "https://i.ibb.co/86ScqLf/istockphoto-851103324-612x612.jpg",
+    "title": "Anniversary",
+    "description": "Beautiful inspiration for your anniversary shoot. See more ideas about anniversary, anniversary photoshoot, anniversary photos.However, that doesn't mean it's necessarily wrong to write it as one word—photoshoot. In fact, photoshoot has recently been gaining popularity, but it has a long way to go before it catches up with photo shoot.",
+    "price": 3500
+  }
+]
