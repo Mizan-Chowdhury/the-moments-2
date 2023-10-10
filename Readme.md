@@ -5,7 +5,7 @@
 Click here for the private repo: [https://the-moments-8ffec.web.app/](https://the-moments-8ffec.web.app/)
 
 ## Some Features of my project
-* I have created a donation event related website. My website homepage has a navbar, banner, footer and some important sections. I made the navbar sticky.
+* I have created a social event related website. My website homepage has a navbar, banner, footer and some important sections. I made the navbar sticky.
 
 * Clicking on the specific button will take the user in another service route. Each route should display detailed information of the service.
 
